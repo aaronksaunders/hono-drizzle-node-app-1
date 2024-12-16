@@ -1,5 +1,8 @@
 # Hono Drizzle Node App
 
+- Blog Post - https://dev.to/aaronksaunders/getting-started-with-hono-js-and-drizzle-orm-2g6i
+- Video - https://www.youtube.com/watch?v=dWGsvnjcgCw
+
 ## Installation
 
 To install the necessary dependencies, run:
