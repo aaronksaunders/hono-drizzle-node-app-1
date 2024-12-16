@@ -88,3 +88,8 @@ You can also use tools like Postman or curl to interact with the API endpoints.
 8. **Stopping the Server**: To stop the server, simply interrupt the process in your terminal (usually Ctrl + C).
 
 9. **Version Control**: Make sure to commit your changes regularly and push to your repository to keep your work backed up.
+
+## 🔗 Helpful Links
+
+- Hono - https://hono.dev/
+- Drizzle - https://orm.drizzle.team/
